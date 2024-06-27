@@ -17,7 +17,7 @@ The Smart Firefighter project leverages Arduino microcontrollers and sensors to 
 
 ## Installation
 1. **Clone the Repository**:
--git clone https://github.com/iamrajarajanr/smart-firefighter.git
+-git clone https://github.com/iamrajarajanr/smart-fire-fighter.git
 
 
 2. **Upload Code to Arduino**:
